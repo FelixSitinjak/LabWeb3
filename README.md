@@ -122,6 +122,6 @@ File utama: `lab3_list.html`
 # Praktikum Web - Lab 3: List dan Table HTML
 
 ## Deskripsi
-Repository ini berisi hasil praktikum **Pemrograman Web (Lab 3)** yang berfokus pada pembuatan **List (Daftar)** dan **Table (Tabel)** menggunakan HTML5.  
-Tujuan dari praktikum ini adalah memahami cara menampilkan data dalam bentuk **daftar terstruktur** dan **tabel** dengan berbagai atribut HTML.
+Repository ini berisi hasil praktikum Pemrograman Web (Lab 3) yang berfokus pada pembuatan List (Daftar) dan Table (Tabel) menggunakan HTML5.  
+Tujuan dari praktikum ini adalah memahami cara menampilkan data dalam bentuk daftar terstruktur dan tabel dengan berbagai atribut HTML.
 
